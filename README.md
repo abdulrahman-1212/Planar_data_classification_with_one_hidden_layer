@@ -9,8 +9,8 @@ This is an implementation of one-hidden-layer neural network. It is Assignment 3
     <li>Implement forward and backward propagation</li>
   <ul>
     
-    <h2>Activation function</h2>
-    <p>I used tanh as an activation function for the hidden layer and sigmoid function for the output layer</p>
+   <h2>Activation function</h2>
+   <p>I used tanh as an activation function for the hidden layer and sigmoid function for the output layer</p>
     
     ### 4.4 - Compute the Cost
 
