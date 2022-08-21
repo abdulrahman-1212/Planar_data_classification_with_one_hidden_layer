@@ -26,7 +26,7 @@ $$J = - \frac{1}{m} \sum\limits_{i = 1}^{m} \large{(} \small y^{(i)}\log\left(a^
     <img src="images/grad_summary.png" style="width:600px;height:300px;">
 <caption><center><font color='purple'><b>Figure 1</b>: Backpropagation. Use the six equations on the right.</font></center></caption>
 
-<!--
+
 $\frac{\partial \mathcal{J} }{ \partial z_{2}^{(i)} } = \frac{1}{m} (a^{[2](i)} - y^{(i)})$
 
 $\frac{\partial \mathcal{J} }{ \partial W_2 } = \frac{\partial \mathcal{J} }{ \partial z_{2}^{(i)} } a^{[1] (i) T} $
@@ -46,5 +46,5 @@ $\frac{\partial \mathcal{J} _i }{ \partial b_1 } = \sum_i{\frac{\partial \mathca
     - dW2 = $\frac{\partial \mathcal{J} }{ \partial W_2 }$
     - db2 = $\frac{\partial \mathcal{J} }{ \partial b_2 }$
     
-!-->
+
 
